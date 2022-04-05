@@ -3,8 +3,7 @@ Question:,What is your age (# years)?,What is your current yearly compensation (
 # of Respondents:,19717,12497,12250,16781,16569,15690,15627,14627,14443,14404,14377,19717,14253,14218,14203,14182,14088,13915,5492,3582,13753,7125,19717,7100,7078,7050,7015,6994,19323,19107,14002,13623,13227,9226
 Who was excluded? (0 = not excluded; 1 = excluded),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 If What is your age (# years)? 0-17 Is Selected,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-"If Select the title most similar to your current role (or most recent title if retired): Student Is Selected OR Select the title most similar to your current role (or most recent title if retired): Not employed Is Selected
- ",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+If Select the title most similar to your current role (or most recent title if retired): Student Is Selected OR Select the title most similar to your current role (or most recent title if retired): Not employed Is Selected,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
 If How long have you been writing code to analyze data (at work or at school)? I have never written code Is Selected ,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0
 If Approximately how much money have you spent on machine learning and/or cloud computing products a... $0 (USD) Is Selected,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0
 If Which of the following ML algorithms do you use on a regular basis? (Select all that apply): Convolutional Neural Networks Is Not Selected Or Which of the following ML algorithms do you use on a regular basis? (Select all that apply): Generative Adversarial Networks Is Not Selected,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
